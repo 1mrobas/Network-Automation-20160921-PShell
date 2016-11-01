@@ -6,8 +6,8 @@ Automating with PowerShell section in the Network Automation Workshop with @ipsp
 * **Generate config** - Example for generating FC device alias and zoning configuration
 * **PowerShell** - PowerShell examples
 * **XML** - XML templates used in PowerShell
-  * **SAN** - FC SAN XML templates
-  * **LAN** - DC networking XML templates
+ * **SAN** - FC SAN XML templates
+ * **LAN** - DC networking XML templates
 
 ## Installation
 I was using PowerShell version 4 but example also work with the latest PowerShell version
