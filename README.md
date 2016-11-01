@@ -12,5 +12,5 @@ Automating with PowerShell section in the Network Automation Workshop with @ipsp
 ## Installation
 I was using PowerShell version 4 but example also work with the latest PowerShell version
 * You can download and install PowerShell from Microsoft's website
-* For Cisco UCS PowerShell module search for, download and install **Cisco UCS PowerTool Suite**
-* For VMware vSphere PowerShell module search for, download and install **VMware PowerCLI**
+* For Cisco UCS PowerShell module search for, download and install [Cisco UCS PowerTool Suite](https://software.cisco.com/download/release.html?i=!y&mdfid=286305108&softwareid=284574017&release=2.1.1)
+* For VMware vSphere PowerShell module search for, download and install [VMware PowerCLI](https://my.vmware.com/web/vmware/details?downloadGroup=PCLI630R1&productId=491)
