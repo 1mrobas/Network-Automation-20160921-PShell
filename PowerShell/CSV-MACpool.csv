@@ -1,0 +1,21 @@
+Name,ss,f,t,Size,Org,vNIC,Template used,Comment,Order
+0mpSrvMgmtA,f1,a,6,5,vSphere6,nicSrvMgmtA,ntSrvMgmtA,Mgmt fabric A for ESXi6 hosts,sequential
+0mpSrvMgmtB,f1,b,6,5,vSphere6,nicSrvMgmtB,ntSrvMgmtB,Mgmt fabric B for ESXi6 hosts,sequential
+0mpVMotion,f9,c,6,5,vSphere6,nicVMotion,ntVMotion,Vmotion fabric AB for ESXi6 hosts,sequential
+0mpFT,f8,d,6,5,vSphere6,nicFT,ntFT,FT fabric BA for ESXi6 hosts,sequential
+0mpVMupl1A,f2,a,6,5,vSphere6,nicVMupl1A,ntVMupl1A,VM uplink fabric A for ESXi6 hosts,sequential
+0mpVMupl1B,f2,b,6,5,vSphere6,nicVMupl1B,ntVMupl1B,VM uplink fabric B for ESXi6 hosts,sequential
+0mpNSXVTEP1A,f3,a,6,5,vSphere6,nicNSXVTEP1A,ntNSXVTEP1A,NSX VTEP uplink fabric A for ESXi6 hosts,sequential
+0mpNSXVTEP1B,f3,b,6,5,vSphere6,nicNSXVTEP1B,ntNSXVTEP1B,NSX VTEP uplink fabric B for ESXi6 hosts,sequential
+0mpNSXphyA,f4,a,6,5,vSphere6,nicNSXphyA,ntNSXphyA,NSX-to-phy uplink fabric A for ESXi6 hosts,sequential
+0mpNSXphyB,f4,b,6,5,vSphere6,nicNSXphyB,ntNSXphyB,NSX-to-phy uplink fabric B for ESXi6 hosts,sequential
+0mpSrvMgmtA,,,,,FlashStack,,,Mgmt fabric A for ESXi6 hosts,sequential
+0mpSrvMgmtB,,,,,FlashStack,,,Mgmt fabric B for ESXi6 hosts,sequential
+0mpVMotion,,,,,FlashStack,,,Vmotion fabric AB for ESXi6 hosts,sequential
+0mpFT,,,,,FlashStack,,,FT fabric BA for ESXi6 hosts,sequential
+0mpVMupl1A,,,,,FlashStack,,,VM uplink fabric A for ESXi6 hosts,sequential
+0mpVMupl1B,,,,,FlashStack,,,VM uplink fabric B for ESXi6 hosts,sequential
+0mpNSXVTEP1A,,,,,FlashStack,,,NSX VTEP uplink fabric A for ESXi6 hosts,sequential
+0mpNSXVTEP1B,,,,,FlashStack,,,NSX VTEP uplink fabric B for ESXi6 hosts,sequential
+0mpNSXphyA,,,,,FlashStack,,,NSX-to-phy uplink fabric A for ESXi6 hosts,sequential
+0mpNSXphyB,,,,,FlashStack,,,NSX-to-phy uplink fabric B for ESXi6 hosts,sequential
