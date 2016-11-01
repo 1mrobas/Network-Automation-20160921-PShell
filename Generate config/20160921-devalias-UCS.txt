@@ -1,0 +1,19 @@
+! 2016-9-21-154712 Device Alias Configuration
+device-alias database
+device-alias name esxi01-A1 pwwn 20:03:00:25:B5:3A:11:01
+device-alias name esxi02-A1 pwwn 20:03:00:25:B5:3A:11:02
+device-alias name esxi03-A1 pwwn 20:03:00:25:B5:3A:11:03
+device-alias name esxi04-A1 pwwn 20:03:00:25:B5:3A:11:04
+device-alias name esxi05-A1 pwwn 20:03:00:25:B5:3A:11:05
+device-alias name esxi06-A1 pwwn 20:03:00:25:B5:3A:11:06
+device-alias name esxi07-A1 pwwn 20:03:00:25:B5:3A:11:07
+device-alias name esxi08-A1 pwwn 20:03:00:25:B5:3A:11:08
+device-alias name esxi01-B1 pwwn 20:03:00:25:B5:3B:12:01
+device-alias name esxi02-B1 pwwn 20:03:00:25:B5:3B:12:02
+device-alias name esxi03-B1 pwwn 20:03:00:25:B5:3B:12:03
+device-alias name esxi04-B1 pwwn 20:03:00:25:B5:3B:12:04
+device-alias name esxi05-B1 pwwn 20:03:00:25:B5:3B:12:05
+device-alias name esxi06-B1 pwwn 20:03:00:25:B5:3B:12:06
+device-alias name esxi07-B1 pwwn 20:03:00:25:B5:3B:12:07
+device-alias name esxi08-B1  pwwn 20:03:00:25:B5:3B:12:08
+device-alias commit

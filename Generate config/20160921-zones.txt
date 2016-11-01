@@ -1,0 +1,137 @@
+! 2016-9-21-154940 Zone Config
+zone name VNX5400a0--esxi01a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi01-A1
+!
+zone name VNX5400a0--esxi02a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi02-A1
+!
+zone name VNX5400a0--esxi03a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi03-A1
+!
+zone name VNX5400a0--esxi04a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi04-A1
+!
+zone name VNX5400a0--esxi05a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi05-A1
+!
+zone name VNX5400a0--esxi06a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi06-A1
+!
+zone name VNX5400a0--esxi07a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi07-A1
+!
+zone name VNX5400a0--esxi08a1 vsan 11
+ member device-alias VNX5400_SPA_0
+ member device-alias esxi08-A1
+!
+zone commit vsan 11
+!
+zone name VNX5400a1--esxi01a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi01-A1
+!
+zone name VNX5400a1--esxi02a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi02-A1
+!
+zone name VNX5400a1--esxi03a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi03-A1
+!
+zone name VNX5400a1--esxi04a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi04-A1
+!
+zone name VNX5400a1--esxi05a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi05-A1
+!
+zone name VNX5400a1--esxi06a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi06-A1
+!
+zone name VNX5400a1--esxi07a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi07-A1
+!
+zone name VNX5400a1--esxi08a1 vsan 11
+ member device-alias VNX5400_SPA_1
+ member device-alias esxi08-A1
+!
+zone commit vsan 11
+!
+zone name VNX5400b0--esxi01a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi01-A1
+!
+zone name VNX5400b0--esxi02a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi02-A1
+!
+zone name VNX5400b0--esxi03a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi03-A1
+!
+zone name VNX5400b0--esxi04a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi04-A1
+!
+zone name VNX5400b0--esxi05a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi05-A1
+!
+zone name VNX5400b0--esxi06a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi06-A1
+!
+zone name VNX5400b0--esxi07a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi07-A1
+!
+zone name VNX5400b0--esxi08a1 vsan 11
+ member device-alias VNX5400_SPB_0
+ member device-alias esxi08-A1
+!
+zone commit vsan 11
+!
+zone name VNX5400b1--esxi01a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi01-A1
+!
+zone name VNX5400b1--esxi02a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi02-A1
+!
+zone name VNX5400b1--esxi03a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi03-A1
+!
+zone name VNX5400b1--esxi04a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi04-A1
+!
+zone name VNX5400b1--esxi05a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi05-A1
+!
+zone name VNX5400b1--esxi06a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi06-A1
+!
+zone name VNX5400b1--esxi07a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi07-A1
+!
+zone name VNX5400b1--esxi08a1 vsan 11
+ member device-alias VNX5400_SPB_1
+ member device-alias esxi08-A1
+!
+zone commit vsan 11
+!

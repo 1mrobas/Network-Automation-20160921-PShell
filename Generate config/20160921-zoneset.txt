@@ -1,0 +1,36 @@
+! 2016-9-21-154940 Zoneset Config
+zoneset name zsetSANfabric-11 vsan 11
+ member VNX5400a0--esxi01a1
+ member VNX5400a0--esxi02a1
+ member VNX5400a0--esxi03a1
+ member VNX5400a0--esxi04a1
+ member VNX5400a0--esxi05a1
+ member VNX5400a0--esxi06a1
+ member VNX5400a0--esxi07a1
+ member VNX5400a0--esxi08a1
+ member VNX5400a1--esxi01a1
+ member VNX5400a1--esxi02a1
+ member VNX5400a1--esxi03a1
+ member VNX5400a1--esxi04a1
+ member VNX5400a1--esxi05a1
+ member VNX5400a1--esxi06a1
+ member VNX5400a1--esxi07a1
+ member VNX5400a1--esxi08a1
+ member VNX5400b0--esxi01a1
+ member VNX5400b0--esxi02a1
+ member VNX5400b0--esxi03a1
+ member VNX5400b0--esxi04a1
+ member VNX5400b0--esxi05a1
+ member VNX5400b0--esxi06a1
+ member VNX5400b0--esxi07a1
+ member VNX5400b0--esxi08a1
+ member VNX5400b1--esxi01a1
+ member VNX5400b1--esxi02a1
+ member VNX5400b1--esxi03a1
+ member VNX5400b1--esxi04a1
+ member VNX5400b1--esxi05a1
+ member VNX5400b1--esxi06a1
+ member VNX5400b1--esxi07a1
+ member VNX5400b1--esxi08a1
+zoneset activate name zsetSANfabric-11 vsan 11
+zone commit vsan 11
