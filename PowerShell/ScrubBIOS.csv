@@ -1,0 +1,2 @@
+Name,Descr,Bios,Disk,Flash
+scrubBIOS,Scrub BIOS upon SP disasociation,yes,no,no

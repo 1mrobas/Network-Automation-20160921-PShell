@@ -1,0 +1,10 @@
+Name,NICTemplate,AdapterType
+nicSrvMgmtA,ntSrvMgmtA,VMware
+nicSrvMgmtB,ntSrvMgmtB,VMware
+nicVMotion,ntVMotion,VMware
+nicFT,ntFT,VMware
+nicN1kv,ntN1kv,VMware
+nicVMupl1A,ntVMupl1A,VMware
+nicVMupl1B,ntVMupl1B,VMware
+nicNSXVTEP1A,ntNSXVTEP1A,VMware
+nicNSXVTEP1B,ntNSXVTEP1B,VMware

@@ -1,0 +1,3 @@
+Name,Descr,Cdp,Mac,UplinkFail
+ncpStdNIC,NIC with CDP disabled,disabled,only-native-vlan,link-down
+ncpCiscoNIC,NIC with Cisco CDP enabled,enabled,only-native-vlan,link-down

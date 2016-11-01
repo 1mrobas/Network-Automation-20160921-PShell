@@ -1,0 +1,2 @@
+Name,Reboot,Enforce,BootMode,Descr
+bpSANdemoPure,no,yes,legacy,SAN boot from demoPure

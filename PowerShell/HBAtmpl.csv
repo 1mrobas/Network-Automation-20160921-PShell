@@ -1,0 +1,6 @@
+Name,Org,WWNPool,Mtu,SPG,QoS,Fabric,TemplType,Descr,VSAN
+hthbaA0,FlashStack,wpphbaA0,2048,,,A,updating-template,Fabric A - first boot HBA,SANfabricA
+hthbaB0,FlashStack,wpphbaB0,2048,,,B,updating-template,Fabric B - second boot HBA,SANfabricB
+hthbaA1,FlashStack,wpphbaA1,2048,,,A,updating-template,Fabric A - data HBA,SANfabricA
+hthbaB1,FlashStack,wpphbaB1,2048,,,B,updating-template,Fabric B - data HBA,SANfabricB
+
