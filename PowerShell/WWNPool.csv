@@ -1,0 +1,5 @@
+Name,Org,Order,Type,From,To,Descr
+wpphbaA0,FlashStack,sequential,port-wwn-assignment,,,WWPN for hbaA0
+wpphbaB0,FlashStack,sequential,port-wwn-assignment,,,WWPN for hbaB0
+wpphbaA1,FlashStack,sequential,port-wwn-assignment,,,WWPN for hbaA1
+wpphbaB1,FlashStack,sequential,port-wwn-assignment,,,WWPN for hbaB1
