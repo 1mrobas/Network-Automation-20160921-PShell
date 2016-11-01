@@ -1,3 +1,0 @@
-Name,Org,Order,From,To,DefGw,DNS1,DNS2,Mask,Descr
-ippESXi55,FlashStack,sequential,10.177.255.1,10.177.255.5,10.177.0.1,10.177.177.1,,255.255.0.0,ESXi55 server static mgmt IP
-ippHV2012R2,FlashStack,sequential,10.177.255.11,10.177.255.13,10.177.0.1,10.177.177.1,,255.255.0.0,Hyper-V 2012 R2 server static mgmt IP

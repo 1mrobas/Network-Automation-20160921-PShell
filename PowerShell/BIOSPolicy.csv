@@ -1,3 +1,0 @@
-Name,Descr,Reboot,Hypthrd,VT,VTIO
-biosESXi55,ESXi55 BIOS policy,no,enabled,enabled,enabled
-biosHV2012R2,Hyper-V 2012R2 BIOS policy,no,enabled,enabled,enabled
